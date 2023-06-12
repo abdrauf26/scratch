@@ -1,5 +1,4 @@
-# scratch
-## My Scratch Project and Learning
+# My Scratch Project and Learning
 
 The project is an interactive Scratch project that uses all of the ideas learned in the course, CS50's Introduction to Programming with Scratch. 
  
