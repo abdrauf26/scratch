@@ -1,5 +1,3 @@
-# My Scratch Project and Learning
-
 [<img width="1080" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/250239201-797dc5c7-5021-4104-b06a-7fbd5864d942.png">](https://scratch.mit.edu/projects/833190784/)
 
 The project is an interactive Scratch project that uses all of the ideas learned in the course, CS50's Introduction to Programming with Scratch. 
