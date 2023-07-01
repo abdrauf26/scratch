@@ -1,11 +1,12 @@
 # My Scratch Project and Learning
 
+<img width="1080" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/250239201-797dc5c7-5021-4104-b06a-7fbd5864d942.png">](https://scratch.mit.edu/projects/833190784/)
+
 The project is an interactive Scratch project that uses all of the ideas learned in the course, CS50's Introduction to Programming with Scratch. 
  
 Welcome to the game! The objective is to catch and save the eggs using the dinosaur. To emerge victorious, you need to save as many eggs as possible before your 3 chances in the game end. An additional feature of the game is that the player has the option to change the background during the game. So, let the fun and excitement begin! Have fun!
 
 Check out the project [here!](https://scratch.mit.edu/projects/833190784/)
 
-[<img width="1018" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/245123790-a4f3a76c-3ec4-4610-9334-52a0ef569431.png">](https://scratch.mit.edu/projects/833190784/)
-<img width="1080" alt="image" src="https://github.com/abdrauf26/scratch/assets/96287600/1b13f03d-0197-4e42-a78c-bc270a831fe8">
+
 
