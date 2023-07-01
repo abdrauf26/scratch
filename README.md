@@ -6,5 +6,5 @@ Welcome to the game! The objective is to catch and save the eggs using the dinos
 
 Check out the project [here!](https://scratch.mit.edu/projects/833190784/)
 
-[<img width="1018" alt="image" src="https://github.com/abdrauf26/scratch/assets/96287600/a4f3a76c-3ec4-4610-9334-52a0ef569431">](https://scratch.mit.edu/projects/833190784/)
+[<img width="1018" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96287600/245123790-a4f3a76c-3ec4-4610-9334-52a0ef569431.png">](https://scratch.mit.edu/projects/833190784/)
 
